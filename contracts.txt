@@ -1,0 +1,1 @@
+Sale|11/3/2024|Jane Doe|Janedoe@gmail.com|Vehicle{year=2014, odometer=67000, vin='409011', make='Ford', model='Avenger', color='Black', vehicleType='Sedan', price=4500.0}|690.000000|295.000000|false
